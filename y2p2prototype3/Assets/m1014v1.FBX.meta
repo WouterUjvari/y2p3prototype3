@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 7871c3a909fc85843a1d0205367e0f38
+timeCreated: 1516693523
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: BigStock
+    100004: Box001
+    100006: Box002
+    100008: Box003
+    100010: button
+    100012: CharmSlot
+    100014: Frame
+    100016: FrontSights
+    100018: Grib
+    100020: m
+    100022: //RootNode
+    100024: Plane001
+    100026: Pyramid001
+    100028: Rail
+    100030: ShoulderStock
+    100032: Sight
+    100034: Slide
+    100036: StiggerGuard
+    100038: Stock
+    100040: StockPad
+    100042: Trigger
+    100044: UnderBarrel
+    400000: Barrel
+    400002: BigStock
+    400004: Box001
+    400006: Box002
+    400008: Box003
+    400010: button
+    400012: CharmSlot
+    400014: Frame
+    400016: FrontSights
+    400018: Grib
+    400020: m
+    400022: //RootNode
+    400024: Plane001
+    400026: Pyramid001
+    400028: Rail
+    400030: ShoulderStock
+    400032: Sight
+    400034: Slide
+    400036: StiggerGuard
+    400038: Stock
+    400040: StockPad
+    400042: Trigger
+    400044: UnderBarrel
+    2100000: 01 - Default
+    2100002: 07 - Default
+    2100004: Grey
+    2100006: 08 - Default
+    2100008: 09 - Default
+    2300000: Barrel
+    2300002: BigStock
+    2300004: Box001
+    2300006: Box002
+    2300008: Box003
+    2300010: button
+    2300012: CharmSlot
+    2300014: Frame
+    2300016: FrontSights
+    2300018: Grib
+    2300020: m
+    2300022: Plane001
+    2300024: Pyramid001
+    2300026: Rail
+    2300028: ShoulderStock
+    2300030: Sight
+    2300032: Slide
+    2300034: StiggerGuard
+    2300036: Stock
+    2300038: StockPad
+    2300040: Trigger
+    2300042: UnderBarrel
+    3300000: Barrel
+    3300002: BigStock
+    3300004: Box001
+    3300006: Box002
+    3300008: Box003
+    3300010: button
+    3300012: CharmSlot
+    3300014: Frame
+    3300016: FrontSights
+    3300018: Grib
+    3300020: m
+    3300022: Plane001
+    3300024: Pyramid001
+    3300026: Rail
+    3300028: ShoulderStock
+    3300030: Sight
+    3300032: Slide
+    3300034: StiggerGuard
+    3300036: Stock
+    3300038: StockPad
+    3300040: Trigger
+    3300042: UnderBarrel
+    4300000: Plane001
+    4300002: Grib
+    4300004: Barrel
+    4300006: BigStock
+    4300008: Sight
+    4300010: CharmSlot
+    4300012: Frame
+    4300014: FrontSights
+    4300016: Pyramid001
+    4300018: m
+    4300020: Rail
+    4300022: ShoulderStock
+    4300024: Slide
+    4300026: StiggerGuard
+    4300028: Stock
+    4300030: StockPad
+    4300032: Trigger
+    4300034: UnderBarrel
+    4300036: Box001
+    4300038: button
+    4300040: Box002
+    4300042: Box003
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

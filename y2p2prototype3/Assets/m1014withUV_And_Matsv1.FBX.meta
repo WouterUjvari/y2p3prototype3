@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: 016d3b71d4158e543828e23f167346b3
+timeCreated: 1516709306
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: BigStock
+    100004: BottomLoader
+    100006: CharmSlot
+    100008: Frame
+    100010: FrontSights
+    100012: Grib
+    100014: LoaderSpring
+    100016: LoadingMechanism
+    100018: //RootNode
+    100020: Rail
+    100022: ShoulderStock
+    100024: Sight
+    100026: Slide
+    100028: Smoles
+    100030: StiggerGuard
+    100032: Stock
+    100034: StockPad
+    100036: Trigger
+    100038: UnderBarrel
+    400000: Barrel
+    400002: BigStock
+    400004: BottomLoader
+    400006: CharmSlot
+    400008: Frame
+    400010: FrontSights
+    400012: Grib
+    400014: LoaderSpring
+    400016: LoadingMechanism
+    400018: //RootNode
+    400020: Rail
+    400022: ShoulderStock
+    400024: Sight
+    400026: Slide
+    400028: Smoles
+    400030: StiggerGuard
+    400032: Stock
+    400034: StockPad
+    400036: Trigger
+    400038: UnderBarrel
+    2100000: MatGrib
+    2100002: MatBarrel
+    2100004: MatBigStock
+    2100006: MatBottomLoader
+    2100008: MatLoadingMechanism
+    2100010: MatLoaderSpring
+    2100012: MatCharmSlot
+    2100014: MatFrame
+    2100016: MatFrontSights
+    2100018: MatSmall
+    2100020: MatRail
+    2100022: MatShoulderStock
+    2100024: MatSight
+    2100026: MatSlide
+    2100028: MatTriggerGuard
+    2100030: MatStock
+    2100032: MatStockPad
+    2100034: MatTrigger
+    2100036: MatUnderbarrel
+    2300000: Barrel
+    2300002: BigStock
+    2300004: BottomLoader
+    2300006: CharmSlot
+    2300008: Frame
+    2300010: FrontSights
+    2300012: Grib
+    2300014: LoaderSpring
+    2300016: LoadingMechanism
+    2300018: Rail
+    2300020: ShoulderStock
+    2300022: Sight
+    2300024: Slide
+    2300026: Smoles
+    2300028: StiggerGuard
+    2300030: Stock
+    2300032: StockPad
+    2300034: Trigger
+    2300036: UnderBarrel
+    3300000: Barrel
+    3300002: BigStock
+    3300004: BottomLoader
+    3300006: CharmSlot
+    3300008: Frame
+    3300010: FrontSights
+    3300012: Grib
+    3300014: LoaderSpring
+    3300016: LoadingMechanism
+    3300018: Rail
+    3300020: ShoulderStock
+    3300022: Sight
+    3300024: Slide
+    3300026: Smoles
+    3300028: StiggerGuard
+    3300030: Stock
+    3300032: StockPad
+    3300034: Trigger
+    3300036: UnderBarrel
+    4300000: Grib
+    4300002: Barrel
+    4300004: BigStock
+    4300006: BottomLoader
+    4300008: LoadingMechanism
+    4300010: LoaderSpring
+    4300012: CharmSlot
+    4300014: Frame
+    4300016: FrontSights
+    4300018: Smoles
+    4300020: Rail
+    4300022: ShoulderStock
+    4300024: Sight
+    4300026: Slide
+    4300028: StiggerGuard
+    4300030: Stock
+    4300032: StockPad
+    4300034: Trigger
+    4300036: UnderBarrel
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatBarrel
+    second: {fileID: 2100000, guid: 8dd7c504f17d4424eb4134d337d0e493, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatBigStock
+    second: {fileID: 2100000, guid: 26c93f26c8da92e44a10e9e665ff4689, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatBottomLoader
+    second: {fileID: 2100000, guid: 58cfde88e0717d04fa2a3c1c3b54e0b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatCharmSlot
+    second: {fileID: 2100000, guid: bd26be5fde2fae643a6ed63fed196754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatFrame
+    second: {fileID: 2100000, guid: 922a01c4e39bad14db0d6dc88a32abe3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatFrontSights
+    second: {fileID: 2100000, guid: a98796d44fd15c642a14bbdf456214d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatGrib
+    second: {fileID: 2100000, guid: 436ce30170e067f479cf580a3fdae4dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatLoaderSpring
+    second: {fileID: 2100000, guid: c66d9bc6aaa1d3b4cbb827f7627f0f70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatLoadingMechanism
+    second: {fileID: 2100000, guid: dfaa893720ea5e34398ac647a30cdb1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatRail
+    second: {fileID: 2100000, guid: 0504c88549dd8d74f8b815bcea848b9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatShoulderStock
+    second: {fileID: 2100000, guid: 3c22115f4d47fb0459a2c664793a06eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatSight
+    second: {fileID: 2100000, guid: 9120ab553e2d20049aa8872360625b35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatSlide
+    second: {fileID: 2100000, guid: 0e128f2cb81dd5946affe38303d26a75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatSmall
+    second: {fileID: 2100000, guid: d85e15f9c879b7e49aea932f77d73a47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatStock
+    second: {fileID: 2100000, guid: b793e53ed14f3fe4f8b09b331b4724e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatStockPad
+    second: {fileID: 2100000, guid: 8dd9a6bdbab3f1745b33fed470ef28fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatTrigger
+    second: {fileID: 2100000, guid: 90e28d5e98adfc6468c4c75ed2ba7265, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatTriggerGuard
+    second: {fileID: 2100000, guid: 49b4796ce936a7c4da58d78a1d8bbbab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatUnderbarrel
+    second: {fileID: 2100000, guid: ba7865b1fa0702d4aa5848dc61b3da62, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
