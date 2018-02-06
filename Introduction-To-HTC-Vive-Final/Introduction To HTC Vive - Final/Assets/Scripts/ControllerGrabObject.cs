@@ -99,6 +99,7 @@ public class ControllerGrabObject : MonoBehaviour
 		objectInHand.transform.localRotation = this.transform.rotation * Quaternion.Euler (0, 90 + 180, -65);
 		objectInHand.transform.position = this.transform.position + offset;
         collidingObject = null;
+		objectInHand.GetComponent<BoxCollider> ().enabled = false;
         var joint = AddFixedJoint();
         joint.connectedBody = objectInHand.GetComponent<Rigidbody>();
 		this.gameObject.transform.GetChild(0).gameObject.SetActive (false);
@@ -121,6 +122,7 @@ public class ControllerGrabObject : MonoBehaviour
             Destroy(GetComponent<FixedJoint>());
             objectInHand.GetComponent<Rigidbody>().velocity = Controller.velocity;
             objectInHand.GetComponent<Rigidbody>().angularVelocity = Controller.angularVelocity;
+			objectInHand.GetComponent<BoxCollider> ().enabled = true;
         }
 
         objectInHand = null;
