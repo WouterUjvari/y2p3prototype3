@@ -1,13 +1,13 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction To HTC Vive - Final", "Assembly-CSharp.csproj", "{E0983720-F695-E1AD-D16C-72256F352D66}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction To HTC Vive - Final", "Introduction To HTC Vive - Final.csproj", "{892885A5-2A50-FC41-9FEC-4C8E2DF73AE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction To HTC Vive - Final", "Assembly-CSharp-firstpass.csproj", "{77A38F4F-35C9-59E3-DED3-61F9389E32DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction To HTC Vive - Final.Plugins", "Introduction To HTC Vive - Final.Plugins.csproj", "{D4601A80-9ED7-7214-CAE6-A554EEDC5800}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction To HTC Vive - Final", "Assembly-CSharp-Editor-firstpass.csproj", "{BC6CD2A5-DFF5-38FB-7555-F275B31BE294}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction To HTC Vive - Final.Editor.Plugins", "Introduction To HTC Vive - Final.Editor.Plugins.csproj", "{024F6226-2C6C-0A09-7F03-A4889C734B89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction To HTC Vive - Final", "Assembly-CSharp-Editor.csproj", "{93EF1FC8-8184-E51C-6242-C158E2D915A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction To HTC Vive - Final.Editor", "Introduction To HTC Vive - Final.Editor.csproj", "{56B2E67B-B17B-6630-BA75-BFFFDAD0F94F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,27 +15,24 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E0983720-F695-E1AD-D16C-72256F352D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E0983720-F695-E1AD-D16C-72256F352D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E0983720-F695-E1AD-D16C-72256F352D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E0983720-F695-E1AD-D16C-72256F352D66}.Release|Any CPU.Build.0 = Release|Any CPU
-		{77A38F4F-35C9-59E3-DED3-61F9389E32DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{77A38F4F-35C9-59E3-DED3-61F9389E32DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{77A38F4F-35C9-59E3-DED3-61F9389E32DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{77A38F4F-35C9-59E3-DED3-61F9389E32DC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BC6CD2A5-DFF5-38FB-7555-F275B31BE294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BC6CD2A5-DFF5-38FB-7555-F275B31BE294}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BC6CD2A5-DFF5-38FB-7555-F275B31BE294}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BC6CD2A5-DFF5-38FB-7555-F275B31BE294}.Release|Any CPU.Build.0 = Release|Any CPU
-		{93EF1FC8-8184-E51C-6242-C158E2D915A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{93EF1FC8-8184-E51C-6242-C158E2D915A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{93EF1FC8-8184-E51C-6242-C158E2D915A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{93EF1FC8-8184-E51C-6242-C158E2D915A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892885A5-2A50-FC41-9FEC-4C8E2DF73AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892885A5-2A50-FC41-9FEC-4C8E2DF73AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892885A5-2A50-FC41-9FEC-4C8E2DF73AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892885A5-2A50-FC41-9FEC-4C8E2DF73AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4601A80-9ED7-7214-CAE6-A554EEDC5800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4601A80-9ED7-7214-CAE6-A554EEDC5800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4601A80-9ED7-7214-CAE6-A554EEDC5800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4601A80-9ED7-7214-CAE6-A554EEDC5800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{024F6226-2C6C-0A09-7F03-A4889C734B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024F6226-2C6C-0A09-7F03-A4889C734B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024F6226-2C6C-0A09-7F03-A4889C734B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024F6226-2C6C-0A09-7F03-A4889C734B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B2E67B-B17B-6630-BA75-BFFFDAD0F94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B2E67B-B17B-6630-BA75-BFFFDAD0F94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B2E67B-B17B-6630-BA75-BFFFDAD0F94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B2E67B-B17B-6630-BA75-BFFFDAD0F94F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
