@@ -84,11 +84,16 @@ public class ControllerGrabObject : MonoBehaviour
             }
         }
 
+        if(Controller.GetHairTriggerDown() && objectInHand != null)
+        {
+            objectInHand.GetComponent<GunScript>().FireGun();
+        }
+
         if (Controller.GetHairTriggerUp())
         {
             if (objectInHand)
             {
-                ReleaseObject();
+                //ReleaseObject();
             }
         }
     }
@@ -113,6 +118,8 @@ public class ControllerGrabObject : MonoBehaviour
         return fx;
     }
 
+    
+
     private void ReleaseObject()
     {
 		this.gameObject.transform.GetChild(0).gameObject.SetActive (true);
@@ -127,4 +134,6 @@ public class ControllerGrabObject : MonoBehaviour
 
         objectInHand = null;
     }
+
+    
 }
